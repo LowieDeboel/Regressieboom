@@ -1,0 +1,40 @@
+{
+    "name": "Model_B3 > 0.5",
+    "children": [
+        {
+            "name": "4513 of Price",
+            "children": null
+        },
+        {
+            "name": "Condition_fair > 0.5",
+            "children": [
+                {
+                    "name": "Leslie_yes > 0.5",
+                    "children": [
+                        {
+                            "name": "625 of Price",
+                            "children": null
+                        },
+                        {
+                            "name": "88 of Price",
+                            "children": null
+                        }
+                    ]
+                },
+                {
+                    "name": "Model_T202 > 0.5",
+                    "children": [
+                        {
+                            "name": "270 of Price",
+                            "children": null
+                        },
+                        {
+                            "name": "1397 of Price",
+                            "children": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

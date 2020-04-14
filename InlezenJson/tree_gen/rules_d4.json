@@ -1,0 +1,58 @@
+{
+    "name": "Model_B3 > 0.5",
+    "children": [
+        {
+            "name": "4513 of Price",
+            "children": null
+        },
+        {
+            "name": "Condition_fair > 0.5",
+            "children": [
+                {
+                    "name": "Leslie_yes > 0.5",
+                    "children": [
+                        {
+                            "name": "625 of Price",
+                            "children": null
+                        },
+                        {
+                            "name": "Model_T202 > 0.5",
+                            "children": [
+                                {
+                                    "name": "99 of Price",
+                                    "children": null
+                                },
+                                {
+                                    "name": "77 of Price",
+                                    "children": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Model_T202 > 0.5",
+                    "children": [
+                        {
+                            "name": "270 of Price",
+                            "children": null
+                        },
+                        {
+                            "name": "Model_M102 > 0.5",
+                            "children": [
+                                {
+                                    "name": "870 of Price",
+                                    "children": null
+                                },
+                                {
+                                    "name": "1573 of Price",
+                                    "children": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
